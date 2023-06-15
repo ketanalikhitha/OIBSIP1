@@ -62,7 +62,7 @@
 {
     display: flex;
     flex-direction: column;
-    background-image: linear-gradient(to top, rgba(98, 28, 0, 0.47),rgba(255, 255, 255, 0.77)),url('C:/JOLLY/OasisInfobyte-Internship/LEVEL-1 TASK-1/wallpaper.jpg');
+    background-image: linear-gradient(to top, rgba(98, 28, 0, 0.47),rgba(255, 255, 255, 0.77)),url('wallpaper.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 1200px;
